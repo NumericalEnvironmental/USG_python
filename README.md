@@ -25,4 +25,4 @@ track --> mark this cell as a monitor well (for time series output) with a "1"
 
 (2) parameters.txt - miscellaneous gridding and model run parameters, as indicated (see internal code comments)
 
-More info can be found here: (link will be posted shortly)
+More info can be found here: https://numericalenvironmental.wordpress.com/2016/11/13/an-unstructured-grid-finite-difference-groundwater-flow-model-in-python/
