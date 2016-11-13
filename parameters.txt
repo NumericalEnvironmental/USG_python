@@ -1,0 +1,18 @@
+fixed_head_element_area_default	1.00E+20
+hull_area_default	100
+minimum_node_distance	100
+grid_refinement_level	2
+quadrant_delineation_level	2
+interpolate_recharge	0
+show_map	0
+gamma	0.55
+dt_init	1.00E-06
+dt_min	1.00E-08
+dt_max	0.25
+t_end	10
+max_dh	0.05
+dt_decrease	0.7
+dt_increase	1.3
+
+
+
