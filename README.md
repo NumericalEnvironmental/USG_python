@@ -3,9 +3,8 @@ A python script that generates an (irregular) numerical grid from (irreguar) sca
 
 (1) wells.txt - initial scattered properties file, including:
 
-x --> x-location
-
-y --> y-location
+x --> x-location;
+y --> y-location;
 b --> aquifer thickness
 h --> initial head
 K --> hydraulic conductivity
