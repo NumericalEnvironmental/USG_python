@@ -4,7 +4,7 @@
 
 A Python 2.7 script that generates an (irregular) numerical grid from (irreguar) scattered data points with assigned properties, then subsequently runs a single=layer, confined groundwater flow model, per instructions.
 
-The script requies the numpy, scipy, pandas, and matplotlib libraries.
+The script requires the numpy, scipy, pandas, and matplotlib libraries.
 
 Input files include:
 
