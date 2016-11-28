@@ -2,7 +2,11 @@
 
 ![Preview](https://numericalenvironmental.files.wordpress.com/2016/11/mesh.png?w=816)
 
-A Python 2.7 script that generates an (irregular) numerical grid from (irreguar) scattered data points with assigned properties, then subsequently runs a single=layer, confined groundwater flow model, per instructions. Input files include:
+A Python 2.7 script that generates an (irregular) numerical grid from (irreguar) scattered data points with assigned properties, then subsequently runs a single=layer, confined groundwater flow model, per instructions.
+
+The script requies the numpy, scipy, pandas, and matplotlib libraries.
+
+Input files include:
 
 (1) wells.txt - initial scattered properties file, including:
 
